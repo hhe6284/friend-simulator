@@ -21,10 +21,6 @@
         android:src="@drawable/yu1"
         android:layout_width="200dp"
         android:layout_height="200dp" />
-        <ImageView
-            android:src="@"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
 
         <Button
             android:id="@+id/button1"

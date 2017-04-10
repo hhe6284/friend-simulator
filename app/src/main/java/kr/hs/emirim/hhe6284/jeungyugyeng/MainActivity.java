@@ -46,6 +46,6 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(this, "뭐라하는거냐", Toast.LENGTH_SHORT).show();
         }
         Log.d(TAG,"onClick");
-        if (view.getId()==R.id.button1)
+       // if (view.getId()==R.id.button1)
     }
 }
